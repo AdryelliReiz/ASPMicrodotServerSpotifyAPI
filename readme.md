@@ -99,7 +99,7 @@ Para baixar o projeto e configurar o ambiente, siga os passos abaixo:
 3. Realize o processo de autenticação do Spotify, seguindo o fluxo de autorização da API.
 4. Utilize a interface para realizar ações como reproduzir e pausar músicas.
 
-!(Interface do nosso servidor web)[https://cdn.discordapp.com/attachments/865710630833225748/1289202952707244072/image.png?ex=66f7f750&is=66f6a5d0&hm=479bf62d47eac5e08cc92f4a20334d2ec6d62204cf869f6b7ebb398c81bf553e&]
+![Interface do nosso servidor web](https://cdn.discordapp.com/attachments/865710630833225748/1289202952707244072/image.png?ex=66f7f750&is=66f6a5d0&hm=479bf62d47eac5e08cc92f4a20334d2ec6d62204cf869f6b7ebb398c81bf553e&)
 
 ## Considerações Finais
 
